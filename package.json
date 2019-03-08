@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-imports",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Sampaio",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.15.1"
+  },
+  "scripts": {
+    "test": "node tests"
+  },
+  "devDependencies": {}
+}

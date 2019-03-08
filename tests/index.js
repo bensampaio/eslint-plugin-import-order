@@ -1,0 +1,1 @@
+require('./rules/order-by-path');
