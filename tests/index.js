@@ -1,1 +1,1 @@
-require('./rules/order-by-path');
+require('./rules/orderByPath.js');

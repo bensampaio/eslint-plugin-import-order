@@ -3,7 +3,7 @@ module.exports = {
         return /^\.\./.test(path);
     },
     isIndex(path) {
-        return /^\.$/.test(path);
+        return /^\.(\/index\.\w+)?$/.test(path);
     },
     isPackage(path) {
         return /^[@\w]/.test(path);

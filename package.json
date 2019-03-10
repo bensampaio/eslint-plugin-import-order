@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-imports",
+  "name": "eslint-plugin-*",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Bruno Sampaio",

@@ -2,8 +2,8 @@
 
 const RuleTester = require('eslint/lib/testers/rule-tester');
 
-const { BUILTIN_IMPORT, EXTERNAL_IMPORT, INTERNAL_IMPORT, PARENT_IMPORT, SIBLING_IMPORT, INDEX_IMPORT } = require('../../src/constants/IMPORT_TYPES');
-const rule = require('../../src/rules/order-by-path');
+const { BUILTIN_IMPORT, EXTERNAL_IMPORT, INTERNAL_IMPORT, PARENT_IMPORT, SIBLING_IMPORT, INDEX_IMPORT } = require('../../src/constants/IMPORT_TYPES.js');
+const rule = require('../../src/rules/orderByPath.js');
 
 const ascendingOrder = [
     BUILTIN_IMPORT,
