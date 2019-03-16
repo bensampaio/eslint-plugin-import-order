@@ -1,0 +1,5 @@
+# */prefer-index
+
+## Fail
+
+## Pass

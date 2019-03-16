@@ -13,6 +13,7 @@ Some of the rules in this plugin are based on existing rules from `eslint-plugin
 ### Style guide
 
 * Enforce a convention in module import order based on their path ([order-by-path](docs/rules/orderByPath.md)).
+* Prefer imports from index files ([prefer-inder](docs/rules/preferIndex.md)).
 
 ## Installation
 
