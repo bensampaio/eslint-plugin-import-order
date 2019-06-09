@@ -5,7 +5,7 @@
   "author": "Bruno Sampaio",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^5.15.1"
+    "eslint": "^5.16.0"
   },
   "scripts": {
     "test": "node tests"
